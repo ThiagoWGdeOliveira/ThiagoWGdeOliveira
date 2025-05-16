@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Thiago Wendling Gonçalves de Oliveira
 
-<!--
-**ThiagoWGdeOliveira/ThiagoWGdeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist | Forest Modeling Researcher | Python | R | GIS | SQL**
 
-Here are some ideas to get you started:
+I'm currently working in environmental analysis and modeling, with experience in building predictive models, interactive data visualizations, integrating geospatial data and meteorology. 
+I'm passionate about using data science to suport environmental management and strategic decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌱 I'm currently deepeing my knowledge in Data Science and Geospatial Analysis to collaborate on impactful projects. 
+
+## 🚀 Hard Skills:
+- **Programming**: Python, R, SQL (Oracle, PostgreSQL)
+- **Modeling**: Random Forest, Decision Trees, Regression, Clustering, XBoost, Classification, Optimization, Time Series
+- **Geotechnologies**: QGis, ArcGis Pro, GeoPandas, Google Earth Engine
+- **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit, ggplot2, Power BI
+- **Climate Data**: ERA5, NASA POWER
+- **Automation**: Git, Jupyter, APIs
+
+## 📫 Contato
+- **email**: thiago.wgdeoliveira@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/thiago-w-g-de-oliveira/](https://www.linkedin.com/in/thiago-w-g-de-oliveira/)
+
