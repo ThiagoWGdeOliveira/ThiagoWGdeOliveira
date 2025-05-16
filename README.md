@@ -3,7 +3,7 @@
 🎯 **Data Scientist | Forest Modeling Researcher | Python | R | GIS | SQL**
 
 I'm currently working in environmental analysis and modeling, with experience in building predictive models, interactive data visualizations, integrating geospatial data and meteorology. 
-I'm passionate about using data science to suport environmental management and strategic decision-making.
+I'm passionate about using data science to support environmental management and strategic decision-making.
 
 ---
 
