@@ -16,7 +16,7 @@ I'm passionate about using data science to support environmental management and 
 
 ## 🚀 Hard Skills:
 - **Programming**: Python, R, SQL (Oracle, PostgreSQL)
-- **Modeling**: Random Forest, Decision Trees, Regression, Clustering, XBoost, Classification, Optimization, Time Series
+- **Modeling**: Random Forest, Decision Trees, Regression, Clustering, XGBoost, Classification, Optimization, Time Series
 - **Geotechnologies**: QGis, ArcGis Pro, GeoPandas, Google Earth Engine
 - **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit, ggplot2, Power BI
 - **Climate Data**: ERA5, NASA POWER
